@@ -32,6 +32,7 @@ gemini
 deepmind
 谷歌链
 谷链
+!GooglePlay
 
 chatgpt
 openai
